@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_423_752/0/1651835064260?e=1703721600&v=beta&t=ky1VTKavff9TgMTvpe7It8e0QWSS2iTi1Jbvz5kHZNo)
+![MasterHead](https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)
 <h1 align="center">Hi 👋, I'm Dheeraj Rauniyar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5f5113e3943afd7e54e2989e7e5a9fee38ee27508e776db07f71c24af4d2a46d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f707974686f6e2d322e676966">
